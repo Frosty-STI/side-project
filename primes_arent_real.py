@@ -9,7 +9,8 @@ def break_primes():
 def find_derivative():
     func = input("Enter a function to take the derivative of. Use x.")
     for i in range(len(func)):
-        if func[i] == 
+        if func[i] == 0:
+            pass
 
 
 def main():
